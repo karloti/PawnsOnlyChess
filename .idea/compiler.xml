@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-classes-kotlin.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-reports-tests.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-test-results.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-tmp.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Accordance.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Corners.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Correct_statements.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Cube_of_zeros.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Indexing_rules.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Initialization_rules.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Kotlin_lists.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Practical_applications.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Shapeshifter.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Multi-dimensional_list-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Nested_and_inner_classes-Christmas_tree.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Nested_and_inner_classes-Nested_or_inner.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Nested_and_inner_classes-Pumpkin_and_candle.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Nested_and_inner_classes-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Nested_and_inner_classes-Why_do_we_need_inner_classes.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Nested_and_inner_classes-Your_vehicle.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Relational_operators-Boys_in_the_sport_class.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Relational_operators-Find_a_suitable_input.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Relational_operators-Groundhogs_at_the_party.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Relational_operators-Inbetween.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Relational_operators-Job_offer.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Scopes-Cyclist.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Scopes-Non-overlapping_scopes.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Scopes-Open_chest_in_Hogwarts.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Scopes-Power_and_scopes.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Scopes-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Scopes-Unlucky_one.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Scopes-What_is_the_scope.main" target="11" />
+      <module name="Pawns-Only_Chess.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

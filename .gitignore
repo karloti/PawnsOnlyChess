@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Pawns-Only Chess/task/build/
+/Pawns-Only Chess/task/out/
+/Pawns-Only Chess/task/out/production/classes/
+/Topics/Multi-dimensional list/Accordance/out/
+/Topics/Multi-dimensional list/Accordance/out/production/classes/
+/Topics/Nested and inner classes/Christmas tree/out/
+/Topics/Nested and inner classes/Christmas tree/out/production/classes/
+/Topics/Scopes/Open chest in Hogwarts/out/
+/Topics/Scopes/Open chest in Hogwarts/out/production/classes/
+/Topics/Scopes/Power and scopes/out/
+/Topics/Scopes/Power and scopes/out/production/classes/

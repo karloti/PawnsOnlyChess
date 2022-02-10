@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Pumpkin(val type: String, val isForHalloween: Boolean) {
+
+        // create function addCandle()
+
+        inner class Candle {
+            fun burning() {
+                println("The candle is burning inside this spooky $type pumpkin! Boooooo!")
+            }
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14731#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 10 Feb 2022 17:02:43 UTC
+record: -1

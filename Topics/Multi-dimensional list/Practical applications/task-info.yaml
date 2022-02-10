@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Creating a 2D map on which objects are positioned with coordinates
+- text: Finding the position of an object in 3D space
+- text: Creating matrices
+- text: Creating tables
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15129#comment
+status: Solved
+record: -1

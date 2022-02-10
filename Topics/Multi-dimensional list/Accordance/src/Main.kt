@@ -1,0 +1,1 @@
+fun main() = List(2) { x -> List(3) { y -> "[$x][$y]" } }.let(::println)
